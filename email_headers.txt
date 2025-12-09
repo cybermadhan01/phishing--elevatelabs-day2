@@ -1,0 +1,5 @@
+SPF: FAIL
+DKIM: None
+DMARC: FAIL
+Received IP: 192.0.2.45 (Not official PayPal server)
+Email authentication failed — suspected spoofing.
